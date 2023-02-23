@@ -1,0 +1,6 @@
+pytesseract
+PIL
+nltk
+pandas
+tkinter
+mysql
